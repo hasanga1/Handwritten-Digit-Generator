@@ -5,7 +5,14 @@
 
 **Generated Images for Handwritten Digits MNIST Dataset**
 
+![Generated handwritten digit](https://github.com/user-attachments/assets/5e96f05f-283e-4844-82f4-102f163b6ffe)
+
+
 **Generated Images for Fashion MNIST Dataset**
+
+![genaretedcloths](https://github.com/user-attachments/assets/bc315627-71cb-42cb-8017-aaa47f9d1001)
+
+
 ## Introduction
 
 This repository contains a Generative Adversarial Network (GAN) model designed to generate handwritten digits using the MNIST dataset. The GAN consists of a generator and a discriminator, trained to create realistic images of digits.
